@@ -1,0 +1,10 @@
+https://en.wikipedia.org/wiki/PageRank
+https://en.wikipedia.org/wiki/Distributed_computing
+https://www.rfc-editor.org/rfc/rfc2616.txt
+https://news.ycombinator.com/
+https://www.w3.org/Consortium/
+https://en.cppreference.com/w/
+https://curl.se/docs/
+https://git-scm.com/doc
+https://curlie.org/
+https://archive.org/
